@@ -1,2 +1,4 @@
 # vin
-The is a performace test tool,like git save many version and diff there performace.it's base on facebook's ptap
+## 这是一个应用程序性能分析的一个工具
+>1.他是在perf基础上进行开发
+>2.Facebook做的
